@@ -7,4 +7,4 @@
 - SQL | NoSQL | Microsoft SQL Server | MongoDB
 - Cloud Services: Azure | AWS
 
-- 📫 Contact: brunomattgedev@gmail.com | +55 (47) 9 9792-0165
+📫 Contact: brunomattgedev@gmail.com | +55 (47) 9 9792-0165
