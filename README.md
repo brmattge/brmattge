@@ -2,7 +2,7 @@
 
  **🛠️ Skills 🛠️**
 
-- Angular | React | React.js | TypeScript | JavaScript
+- Angular | React.js | TypeScript | JavaScript
 - .NET | .NET Core | .NET MVC | .NET Framework | C# | Node.js
 - SQL | NoSQL | Microsoft SQL Server | MongoDB
 - Cloud Services: Azure | AWS
